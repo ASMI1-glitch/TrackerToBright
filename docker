@@ -1,0 +1,122 @@
+https://docs.google.com/document/d/17MRkCTvFjqdNrNUH7oB2c9ywJCPW6le_Qq2fF_v_Xnc/edit?usp=sharing
+🔰 Week 1: Docker Basics
+Day
+Topic
+Day 1
+What is Docker, containers vs VMs
+Day 2
+Install Docker & run hello-world
+Day 3
+Run public images (nginx, redis)
+Day 4
+Learn Docker CLI: ps, stop, rm, exec
+Day 5
+Build your first Dockerfile (Node.js or Python app)
+Day 6
+Build & run your image
+Day 7
+Recap + mini project (e.g., run a simple counter app in a container)
+
+
+🛠️ Week 2: Volumes, Dockerfiles, & Image Optimization
+Day
+Topic
+Day 8
+Add volumes: persist data (e.g., SQLite or MySQL)
+Day 9
+Difference: Bind Mounts vs Volumes
+Day 10
+Dockerfile best practices (smaller images, multi-stage)
+Day 11
+Dockerfile with environment variables
+Day 12
+.dockerignore and image cleanup
+Day 13
+Practice: Dockerize a Node/Python/Flask app
+Day 14
+Push your image to Docker Hub
+
+
+🧠 Week 3: Docker Compose
+Day
+Topic
+Day 15
+What is Compose & why it's useful
+Day 16
+Write your first docker-compose.yml
+Day 17
+Compose with Node.js + MongoDB
+Day 18
+Compose with Flask + PostgreSQL
+Day 19
+Environment variables with Compose
+Day 20
+Scaling containers in Compose
+Day 21
+Compose project with 3 services (e.g., React + API + DB)
+
+
+⚙️ Week 4: Docker Networks, Logs, Debugging
+Day
+Topic
+Day 22
+Docker networks & container communication
+Day 23
+Inspect logs, use docker exec, logs, top, etc.
+Day 24
+Handle errors & restart policies
+Day 25
+Docker health checks
+Day 26
+Build, tag, and version images properly
+Day 27
+Recap with a mini-project (e.g., chat app or todo app)
+Day 28
+Quiz & Review (solidify core concepts)
+
+
+🚀 Week 5: Production & CI/CD
+Day
+Topic
+Day 29
+Docker image security basics
+Day 30
+Introduction to Docker in CI/CD
+Day 31
+Docker with GitHub Actions
+Day 32
+Setup auto-deploy pipeline
+Day 33
+Build and push in pipeline
+Day 34
+Review CI/CD concepts
+Day 35
+Deploy project to Render, Railway, or EC2
+
+
+🔥 Week 6: Advanced & Optional Topics
+Day
+Topic
+Day 36
+Intro to Docker Swarm
+Day 37
+Swarm: services, scaling, stacks
+Day 38
+Docker Registry (self-hosted vs Docker Hub)
+Day 39
+Dockerfile linter, build caching
+Day 40
+Basic intro to Kubernetes (if interested)
+Day 41
+Monitor containers (Docker stats, logs, health)
+Day 42
+Final project: full-stack app with Docker + Compose + CI/CD
+
+
+🎯 Final Outcome After 6 Weeks
+✅ Confidently build, run, and deploy Dockerized apps
+ ✅ Use volumes, Compose, and Docker Hub
+ ✅ Set up simple CI/CD pipelines with Docker
+ ✅ Ready for real-world use or team projects
+
+
